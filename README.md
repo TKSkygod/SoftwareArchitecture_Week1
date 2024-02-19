@@ -1,5 +1,7 @@
-# Mục lục
-<h3 align="center">Phần 1: Bài tập lý thuyết</h3>
+<h3 align="left">Sinh viên: Trịnh Văn Khánh - 21020343</h3>
+
+<h2 align="center">- MỤC LỤC -</h2>
+<h3 align="left">Phần 1: Bài tập lý thuyết</h3>
 
   [1. Docker và Docker-compose?](#1) 
 
@@ -8,7 +10,7 @@
   [3. Alpine và Ubuntu ?](#3)
 
   [4. VNC ?](#3)
-<h3 align="center">Phần 2: Bài tập thực hành</h3>
+<h3 align="left">Phần 2: Bài tập thực hành</h3>
 
 [1. Các bước thực hiện](#5) 
 
